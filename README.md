@@ -1,2 +1,2 @@
 # DiningPhilosophers
-Solution to the Dining Philosophers problem in C.
+Solution to the Dining Philosophers problem in C
